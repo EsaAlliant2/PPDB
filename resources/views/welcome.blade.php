@@ -175,8 +175,31 @@
                   </div>
                   <div class="col-md-7">
                      <div class="titlepage">
-                        <h2>Tentang <span class="blu"> SMK ANTARTIKA 1</span></h2>
-                        <p>SMK Antartika 1 Sidoarjo adalah sekolah SMK di sidoarjo dengan menjamin mutu industri di dalamnya. Dengan mengusung Moto "Pilih Sekolah yang Berkualitas Bukan Janji Tapi Bukti".</p>
+                        <h2>VISI<span class="blu">Dan MISI</span></h2>
+                        <p>Visi : Terwujudnya peserta didik yang unggul dalam bidang akademik dan non akademik, Terwujudnya komunitas belajar sepanjang hayat yaitu sekolah sebagai tempat saling belajar dan berkembang bagi guru sebagai ahli, peserta didik, serta orang tua dan masyarakat, Terwujudnya pendidikan yang mengedepankan pembentukan profil pelajar Pancasila, yang memiliki enam dimensi utama yaitu: a. Beriman, bertakwa kepada Tuhan Yang Maha Esa, dan berakhlak mulia,</p>
+
+                                <p>b. Mandiri,</p>
+
+                                <p>c. Bernalar Kritis,</p>
+
+                                <p>d. Kreatif,</p>
+
+                                <p>e. Bergotong-royong, dan</p>
+
+                                <p>f. Berkebinekaan global. </P>
+
+                                <p>Misi :  1. Mewujudkan lulusan yang unggul dalam bidang akademik dan non akademik.</p>
+
+                                <p>a. Menentukan kriteria ketuntasan belajar peserta didik</p>
+                                <p>b. Menentukan kriteria lulusan terutama pada ujian sekolah untuk semua mata pelajaran
+                                <p>c. Mengikutsertakan peserta didik untuk kegiatan lomba minimal tingkat kecamatan hingga sampai tingkat internasional,</P>
+                                <p>2. Mewujudkan pendidikan yang mengedepankan pembentukan komunitas belajar sepanjang hayat yaitu guru, peserta didik dan orang tua saling belajar sepanjang hidupnya.</p>
+                                <p>a. Membuka ruang kelas (open class) untuk guru lain bisa saling melihat dan belajar proses pembelajaran di kelas.</p>
+                                <p>b. Mengaktifkan kegiatan MGMP sekolah untuk forum diskusi dalam merencanakan pembelajaran, melaksanakan pembelajaran, dan penilaian</p>
+                                <p>c. Mengikuti pendidikan dan atau pelatihan yang relevan dengan mata pelajaran yang diampu untuk dapat meningkatkan kualitas pengetahuan, keterampilan, dan wawasan guru agar lebih profesional.</p>
+                                <p>d. Memfasilitasi kegiatan ekstrakurikuler pilihan berdasarkan minat dan potensi peserta didik dalam segala bidang, misalnya studi club seperti: club robotik, klub penelitian remaja, club kreativitas siswa, club ajang prestasi siswa, dll.</p>
+                                <p>e. Melakukan sosialisasi kepada komunitas orang tua terkait dengan pola/strategi pendampingan belajar online (belajar dari rumah) pada masa pandemi untuk putra dan putrinya.
+                                </P>
                         <a class="read_more">Read More</a>
                      </div>
                   </div>
@@ -190,7 +213,7 @@
                <div class="row">
                   <div class="col-md-12">
                      <div class="titlepage">
-                        <h2>Why <span class="blu"> Choose Us</span></h2>
+                        <h2>Tentang <span class="blu">SMK ANTARTIKA 1</span></h2>
                      </div>
                   </div>
                </div>
@@ -202,17 +225,14 @@
                         <div class="row">
                            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 padding_right0">
                               <ul class="easy">
-                                 <li class="active"><a href="#">Easy to cutomize</a></li>
-                                 <li><a href="#">More flexible</a></li>
-                                 <li><a href="#">Clean mode</a></li>
-                                 <li><a href="#">Ratinaready</a></li>
+                                 <li class="active"><a href="#">Tentang</a></li>
                               </ul>
                            </div>
                            <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 padding_left0">
                               <div class="choose_box">
-                                 <i><img src="{{ asset('assets/images/admin.png') }}" alt="#"/></i>
-                                 <h3> Ad Minim</h3>
-                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                                 <!-- <i><img src="{{ asset('assets/images/admin.png') }}" alt="#"/></i> -->
+                                 <!-- <h3> Ad Minim</h3> -->
+                                 <p>SMK Antartika 1 Sidoarjo adalah sekolah SMK di sidoarjo dengan menjamin mutu industri di dalamnya. Dengan mengusung Moto "Pilih Sekolah yang Berkualitas Bukan Janji Tapi Bukti".</p>
                               </div>
                            </div>
                         </div>
@@ -243,7 +263,7 @@
          </div>
          <!-- end work -->
          <!-- request -->
-         <div id="contact" class="request">
+         <!-- <div id="contact" class="request">
             <div class="container">
                <div class="row">
                   <div class="col-md-12">
@@ -279,7 +299,7 @@
                   </div>
                </div>
             </div>
-         </div>
+         </div> -->
          <!-- end request -->
          <!--  footer -->
          <footer>
@@ -290,10 +310,10 @@
                         <div class="row">
                            <div class="col-md-8 col-sm-6">
                               <div class="address">
-                                 <h3>Address </h3>
+                                 <h3> </h3>
                               </div>
                               <ul class="location_icon">
-                                 <li>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, </li>
+                                 <li> </li>
                               </ul>
                            </div>
                            <div class="col-md-4 col-sm-6">
@@ -340,7 +360,7 @@
                   <div class="container">
                      <div class="row">
                         <div class="col-md-12">
-                           <p>Copyright 2019 All Right Reserved By <a href="https://html.design/"> Free  html Templates</a></p>
+                           <p>BY saya<a href="https://html.design/"> </a></p>
                         </div>
                      </div>
                   </div>
